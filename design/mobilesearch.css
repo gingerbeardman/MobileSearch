@@ -1,0 +1,9 @@
+/* make search form visible */
+div.Tabs {
+	display: block !important;
+}
+
+/* resize search box for mobile */
+.SearchTabs input.InputBox {
+	width: 98%;
+}

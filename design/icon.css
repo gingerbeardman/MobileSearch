@@ -1,0 +1,20 @@
+/* overide position of new discussion/conversation button */
+.Banner ul li a.NewConversation, .Banner ul li a.NewDiscussion {
+	position: absolute !important;
+	right: 32px !important;
+}
+
+/* style mobile search button  */
+.Banner ul li a.MobileSearch {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 2px 6px 4px;
+	display: block;
+	border-left: 1px solid #627AAD;
+}
+
+/* style mobile search button image */
+.Banner ul li a.MobileSearch img {
+	vertical-align: middle;
+}
