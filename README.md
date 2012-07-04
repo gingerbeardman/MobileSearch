@@ -3,6 +3,12 @@
 Adds a search menu item to the standard Vanilla Mobile theme.  
 You choose whether it is displayed as text or an icon button.
 
+## Changelog
+1.0.3, guests see text - to leave room for signin  
+1.0.2, improved wording in settings  
+1.0.1, bug fix and icon now default option  
+1.0.0, initial release  
+
 ## Details
 See [http://vanillaforums.org/addon/mobilesearch-plugin](http://vanillaforums.org/addon/mobilesearch-plugin)
 
